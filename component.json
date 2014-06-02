@@ -1,0 +1,16 @@
+{
+  "name": "superagent-baaar",
+  "repo": "duncaen/superagent-baaar",
+  "description": "component/baaar plugin for superagent",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/baaar": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
